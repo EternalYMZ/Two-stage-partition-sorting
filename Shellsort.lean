@@ -10,3 +10,5 @@ import Shellsort.ThresholdContraction
 #print axioms Shellsort.tag_finalSlot_of_same_labels
 #check Shellsort.markedWordChange_toggle_sq
 #print axioms Shellsort.markedWordChange_toggle_sq
+import Shellsort.OrderedBlockThreshold
+import Shellsort.BlockCancellation
