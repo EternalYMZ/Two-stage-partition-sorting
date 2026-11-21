@@ -9,3 +9,5 @@ For chain lengths $a_i$ put $s=\sum_i a_i^2/n$, the mean chain length seen by a 
 Lean covers threshold contraction. Sorting an ordered block packs its marked slots into a prefix and preserves their number. Applying the same operation to the intersection of two markings gives a subset of both outputs of the original size of the intersection, so the one-sided difference cannot grow. This argument also applies to successive overlapping blocks. The leading-term theorem requires additional analysis.
 
 [ThresholdContraction.lean](https://github.com/EternalYMZ/Two-stage-partition-sorting/blob/c367251171e3378458427db376408b9a2bdb7e4a/Shellsort/ThresholdContraction.lean) · [TaggedSetInfluence.lean](https://github.com/EternalYMZ/Two-stage-partition-sorting/blob/c367251171e3378458427db376408b9a2bdb7e4a/Shellsort/TaggedSetInfluence.lean)
+
+[Ordered-block contraction](Shellsort/OrderedBlockThreshold.lean) · [Exact trace distance and target footrule](Shellsort/BlockCancellation.lean)

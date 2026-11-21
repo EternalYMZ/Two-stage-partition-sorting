@@ -1,6 +1,8 @@
 import Shellsort.ReplicaCancellation
 import Shellsort.TaggedSetInfluence
 import Shellsort.ThresholdContraction
+import Shellsort.OrderedBlockThreshold
+import Shellsort.BlockCancellation
 
 #check Shellsort.lowerWord_sdiff_card_le
 #print axioms Shellsort.lowerWord_sdiff_card_le
@@ -10,5 +12,7 @@ import Shellsort.ThresholdContraction
 #print axioms Shellsort.tag_finalSlot_of_same_labels
 #check Shellsort.markedWordChange_toggle_sq
 #print axioms Shellsort.markedWordChange_toggle_sq
-import Shellsort.OrderedBlockThreshold
-import Shellsort.BlockCancellation
+
+#print axioms Shellsort.OrderedBlockThreshold.trace_contraction
+#print axioms Shellsort.OrderedBlockThreshold.trace_distance_exact
+#print axioms Shellsort.OrderedBlockThreshold.target_footrule_exact

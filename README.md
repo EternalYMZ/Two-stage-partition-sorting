@@ -2,7 +2,7 @@
 
 Miaozhen Yu (俞缪臻) · [Project S directory](https://github.com/EternalYMZ/Optimal-mean-costs-of-three-pass-Shellsort/blob/main/PROJECT-S.md)
 
-These supporting results concern the special case of ordinary gap words: threshold-set contraction under the same word, a bound for the change in slot ranks, and marked-key identities. The optimal two-stage theorem over arbitrary predetermined ordered partitions is awaiting a dedicated Lean proof.
+The Lean development covers marked-key and slot-rank bounds for ordinary gap words, as well as threshold-set contraction for arbitrary sequences of ordered blocks, including overlapping blocks. The block results include exact trajectory discrepancy and target footrule identities. The optimal two-stage complexity theorem over arbitrary predetermined ordered partitions awaits a dedicated Lean proof.
 
 ## Check the Lean statements
 
