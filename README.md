@@ -17,4 +17,4 @@ lake build
 
 ## Proof guide
 
-[Read the proof idea in Chinese](brief.md). OrderedBlockThreshold and BlockCancellation extend threshold accounting to ordered blocks.
+[Read the proof guide](brief.md). OrderedBlockThreshold and BlockCancellation extend threshold accounting to ordered blocks.
