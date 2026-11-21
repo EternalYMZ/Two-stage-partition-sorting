@@ -1,0 +1,12 @@
+import Shellsort.ReplicaCancellation
+import Shellsort.TaggedSetInfluence
+import Shellsort.ThresholdContraction
+
+#check Shellsort.lowerWord_sdiff_card_le
+#print axioms Shellsort.lowerWord_sdiff_card_le
+#check Shellsort.sortWord_slotRankTransport_le
+#print axioms Shellsort.sortWord_slotRankTransport_le
+#check Shellsort.tag_finalSlot_of_same_labels
+#print axioms Shellsort.tag_finalSlot_of_same_labels
+#check Shellsort.markedWordChange_toggle_sq
+#print axioms Shellsort.markedWordChange_toggle_sq
